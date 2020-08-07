@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC2tK9qwW9HKmOBQYi1GhfaQ?view_as=subscriber).
 - 💬 Ask me about Angular or any tech related stuff.
 - 📫 How to reach me: [Twitter - @deekshithrajB](https://twitter.com/deekshithrajB) , [Instagram - @deekshith_raj_basa](https://www.instagram.com/deekshith_raj_basa/?hl=en)
-- 😄 Pronouns: I, you, he, she, it, this
+- 😄 Pronouns: I, you, he, she, it, they, this.
 - ⚡ Fun fact: I spend almost 12 hours working everyday.
 
 [![Twitter: deekshithrajB](https://img.shields.io/twitter/follow/deekshithrajB?style=social)](https://twitter.com/deekshithrajB)
@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/DeekshithRajBasa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshithRajBasa&theme=light&hide_langs_below=1" />
 </a>
+<br>
 <a href="https://github.com/DeekshithRajBasa">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeekshithRajBasa&show_icons=true&theme=light&line_height=27" alt="Deekshith's github stats"/>
 </a>

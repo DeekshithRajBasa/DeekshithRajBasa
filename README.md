@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    -->
 
-<a href="https://github.com/DeekshithRajBasa">
+<!-- <a href="https://github.com/DeekshithRajBasa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeekshithRajBasa&theme=light&hide_langs_below=1" />
 </a>
 <br>
@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 
 ### Show some ❤️ by starring some of the repositories!
 
-</div>
+</div> -->

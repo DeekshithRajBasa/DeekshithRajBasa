@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/PortfolioWebsite-deekshithrajbasa.github.io/-2648ff?style=flat-square&logo=google-chrome)](http://deekshithrajbasa.github.io/)
 <br>
 
-- 🔭 I’m currently working on Nothing 🖖 ( Nothing can stop me all the way, yeah!)🏻.
+- 🔭 I’m currently working on Nothing 🖖 (Nothing can stop me all the way, yeah!).
 - 🌱 I’m currently learning Node JS and MongoDB.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC2tK9qwW9HKmOBQYi1GhfaQ?view_as=subscriber).
 - 💬 Ask me about Angular or any tech related stuff.

@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/PortfolioWebsite-deekshithrajbasa.github.io/-2648ff?style=flat-square&logo=google-chrome)](http://deekshithrajbasa.github.io/)
 <br>
 
-- 🔭 I’m currently working on Nothing 🖖🏻.
+- 🔭 I’m currently working on Nothing 🖖 ( Nothing can stop me all the way, yeah!)🏻.
 - 🌱 I’m currently learning Node JS and MongoDB.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC2tK9qwW9HKmOBQYi1GhfaQ?view_as=subscriber).
 - 💬 Ask me about Angular or any tech related stuff.
-- 📫 How to reach me: [Twitter - @deekshithrajB](https://twitter.com/deekshithrajB) , [Instagram - @deekshith_raj_basa](https://www.instagram.com/deekshith_raj_basa/?hl=en)
+- 📫 One can reach me out by: [Twitter - @deekshithrajB](https://twitter.com/deekshithrajB) , [Instagram - @deekshith_raj_basa](https://www.instagram.com/deekshith_raj_basa/?hl=en)
 - ⚡ Fun fact: I spend almost 12 hours working everyday.
 
 **Languages and frameworks:**  

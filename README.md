@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node JS and MongoDB.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC2tK9qwW9HKmOBQYi1GhfaQ?view_as=subscriber).
 - 💬 Ask me about Angular or any tech related stuff.
-- 📫 One can reach me out by: [Twitter - @deekshithrajB](https://twitter.com/deekshithrajB) , [Instagram - @deekshith_raj_basa](https://www.instagram.com/deekshith_raj_basa/?hl=en)
+- 📫 One can reach me out by: [Twitter - @deekshithrajB](https://twitter.com/deekshithrajB) , [Instagram - @know_deekshith](https://www.instagram.com/know_deekshith/?hl=en)
 - ⚡ Fun fact: I spend almost 12 hours working everyday.
 
 **Languages and frameworks:**  

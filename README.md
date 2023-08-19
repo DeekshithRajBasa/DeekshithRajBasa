@@ -26,20 +26,24 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/PortfolioWebsite-deekshithrajbasa.github.io/-2648ff?style=flat-square&logo=google-chrome)](http://deekshithrajbasa.github.io/)
 <br>
 
-- 🔭 I’m currently working on Nothing 🖖 (Nothing can stop me all the way, yeah!).
-- 🌱 I’m currently learning Node JS and MongoDB.
+- 🔭 I’m currently working on Nothing 🖖 (Nothing can stop me all the way, yeah!!).
+- 🌱 I’m currently learning Java and SpringBoot.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UC2tK9qwW9HKmOBQYi1GhfaQ?view_as=subscriber).
 - 💬 Ask me about Angular or any tech related stuff.
-- 📫 One can reach me out by: [Twitter - @deekshithrajB](https://twitter.com/deekshithrajB) , [Instagram - @know_deekshith](https://www.instagram.com/know_deekshith/?hl=en)
-- ⚡ Fun fact: I spend almost 12 hours working everyday.
+- 📫 One can reach me out by: [Twitter - @deekshithrajB](https://twitter.com/deekshithrajB) , [Instagram - @deekshith_raj_basa](https://www.instagram.com/deekshith_raj_basa/?hl=en)
+- ⚡ Fun fact: I spend almost 12 hours working + learning everyday.
 
 **Languages and frameworks:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+
+1. Flutter
+2. Dart
+3. Android - Java
+4. JavaScript 
+5. Angular v6+
+6. ReactJs
+7. VueJs
+
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    -->
 
 <!-- <a href="https://github.com/DeekshithRajBasa">
@@ -49,9 +53,9 @@ Here are some ideas to get you started:
 <br>
 <a href="https://github.com/DeekshithRajBasa">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeekshithRajBasa&show_icons=true&theme=light&line_height=27" alt="Deekshith's github stats"/>
-</a>
+</a> -->
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
-</div> -->
+</div> 
